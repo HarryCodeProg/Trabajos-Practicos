@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "nodo.h": "c",
+    "stdio.h": "c",
+    "tipo_elemento.h": "c"
+  }
+}
